@@ -372,5 +372,3 @@ Found additional patterns or have improvements? Contributions are welcome!
 This guide is provided under the MIT License. Feel free to use and adapt for your projects.
 
 ---
-
-**Need help with specific queries?** Share your database type (PostgreSQL/MySQL/SQL Server) and problem queries - we can help rewrite them into index-friendly, sargable forms and suggest optimal indexes.
